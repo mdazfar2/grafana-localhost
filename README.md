@@ -32,4 +32,4 @@ minikube ip
 Have questions, ideas, or just want to chat? Join the conversation on [Discord](https://discordapp.com/users/877531143610708028) or [Linkedin](https://linkedin.com/in/md-azfar-alam/) and also [Instagram](https://instagram.com/azfarxx_/)
 
 Keep Learning! 🐍✨
-Keep Sharing! 🐍✨
+Keep Sharing! 🐍✨.
